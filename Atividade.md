@@ -2,7 +2,7 @@
 
 [x] Quais as entidades de domínio?
 
-[] Quais as ações (casos de uso) que essa aplicação deve ter?
+[x] Quais as ações (casos de uso) que essa aplicação deve ter?
 
 ## Requisitos Funcionais 
 
